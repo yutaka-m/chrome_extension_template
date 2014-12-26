@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "My Extension",
+  "version": "0.1",
+  "description": "chrome extension template.",
+  "icons": { "128": "images/icon_128.png" },
+  "browser_action": {
+    "default_title": "",
+    "default_icon": "images/icon_19.png",
+    "default_popup": "popup.html"
+  }
+}
